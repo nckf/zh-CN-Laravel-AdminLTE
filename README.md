@@ -2,7 +2,7 @@
 
 ## > First ! <
 ---
-#### Laravel-AdminLTE 适用的中文语言包
+#### Laravel-AdminLTE zh-CN language package
 
 [Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)
 
