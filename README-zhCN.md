@@ -1,11 +1,11 @@
 # zh-CN-Laravel-AdminLTE
 
-#### Laravel-AdminLTE zh-CN language package
+#### Laravel-AdminLTE 适用的中文语言包
 
-`English`
-[中文](https://github.com/nckf/zh-CN-Laravel-AdminLTE/blob/master/README-zhCN.md)
+[English](https://github.com/nckf/zh-CN-Laravel-AdminLTE/blob/master/README.md)
+`中文`
 
-> 1 . Install
+> 1 . 安装
 ````
     cd project
 
@@ -14,14 +14,14 @@
     mv zh-CN-Laravel-AdminLTE/zh-CN resources/lang/
 ````
 
-> 2 . Clear
->> be careful!
+> 2 . 清理
+>> 谨慎!
 ````
     rm -rf zh-CN-Laravel-AdminLTE
 ````
 
-> 3 . Use
->> Change the value of the `locale` in the `config/app.php`
+> 3 . 使用
+>> 更改 `config/app.php` 中 `locale` 的值
 >>> 'locale' => 'zh-CN'
 
 > By NCKF
