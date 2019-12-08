@@ -144,7 +144,7 @@ return [
     'starts_with' => ':attribute 必须以以下项中之一开头 :values。',
     'string' => ':attribute 必须是字符串。',
     'timezone' => ':attribute 必须是有效区域。',
-    'unique' => ':attribute 已经被取走。',
+    'unique' => ':attribute 已经被注册。',
     'uploaded' => ':attribute 上传失败。',
     'url' => ':attribute 格式是无效的。',
     'uuid' => ':attribute 必须是有效的 UUID。',
