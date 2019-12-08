@@ -1,10 +1,16 @@
 # zh-CN-Laravel-AdminLTE
 
+## > 首先！ <
+---
 #### Laravel-AdminLTE 适用的中文语言包
+
+[Laravel-AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)
 
 [English](https://github.com/nckf/zh-CN-Laravel-AdminLTE/blob/master/README.md)
 `中文`
 
+## > 开始！ <
+---
 > 1 . 安装
 ````
     cd project
